@@ -1,2 +1,2 @@
 # nif-pt-kata
-Refactoring kata for Portuguese for Tax Number validation
+Refactoring kata for Portuguese Tax Number validation

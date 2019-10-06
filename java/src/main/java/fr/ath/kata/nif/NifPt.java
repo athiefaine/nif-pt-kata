@@ -51,7 +51,7 @@ public class NifPt {
         }
 
 
-        int ultimoDigito = Integer.parseInt(contribuinte.substring(8, 9)) * 1;
+        int ultimoDigito = Integer.parseInt(contribuinte.substring(8, 9));
         if (ultimoDigito != comparador) {
             temErro = 1;
         }
